@@ -1,0 +1,39 @@
+name: Professional
+---
+cost: 50
+---
+title: Professional
+---
+body:
+
+Professional members can have their name listed on the `Members page </community/members/>`__, along with a small avatar, photograph or logo.
+
+If you use BeeWare in a professional capacity, we invite you to become a **Professional Member** of the BeeWare community.
+---
+description:
+
+.. raw:: html
+    
+    <ul>
+        <li>Vote on project priorities</li>
+        <li>Listed on <a href="{{ '/community/members/'|url(alt=this.alt) }}">Members page</a>:
+            <ul>
+                <li>Name</li>
+                <li>Image/avatar</li>
+            </ul>
+            </li>
+    </ul>
+---
+summary: For individuals
+---
+tagline: Become a Professional Member
+---
+color: professional
+---
+url: https://gum.co/TenCq
+---
+width: 6
+---
+display: yes
+---
+showcard: yes
